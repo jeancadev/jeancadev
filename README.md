@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Jean Carlos Obando</h1>
+<h1 align="center">Hola 👋, me llamo Jean Carlos Obando</h1>
 <h3 align="center">Un desarrollador Frontend apasionado a la tecnologia</h3>
 
 - 🌱 Actualmente estoy llevando clases en el programa ONE Oracle-Alura Latam **Curso Desarrollador Frontend**
