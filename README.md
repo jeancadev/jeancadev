@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Jean Carlos Obando</h1>
 <h3 align="center">Un desarrollador Frontend en formacion, apasionado a la tecnologia en general</h3>
 
-- 🌱 Actualmente estoy cursando el programa ONE Oracle-Alura Latam **Curso Desarrollador Frontend**
+- 🌱 Actualmente me encuentro cursando el programa de Oracle Next Education **Curso Desarrollador Frontend**
 
 - 💬 Ask me about **React, HTML, CSS, JavaScript, ReactJS, Pyhton and Java**
 
