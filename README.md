@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente me encuentro cursando el programa de Oracle Next Education **Curso Desarrollador Frontend**
 
-- ☁ **Certificado en Microsoft Azure**
+- ☁ **Certificados en Microsoft Azure**
 
 - 💬 Ask me about **React, HTML, CSS, JavaScript, ReactJS, Pyhton and Java**
 
