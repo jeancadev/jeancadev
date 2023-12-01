@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Jean Carlos Obando</h1>
 <h3 align="center">Me apasiona el desarrollo web y la informatica en la nube</h3>
 
-- 🌱 Actualmente me encuentro cursando el programa de Oracle Next Education **Curso Desarrollador Frontend**
+- 🌱 He finalizado el curso del programa de Oracle Next Education **Curso Desarrollador Frontend**
 
 - ☁ **Certificados en Microsoft Azure**
 
