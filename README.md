@@ -5,7 +5,7 @@
 
 - ☁ **Certificados en Microsoft Azure**
 
-- 💬 Ask me about **React, HTML, CSS, JavaScript, ReactJS, Pyhton and Java**
+- 💬 Ask me about **React, HTML, CSS, JavaScript, ReactJS, Pyhton, Java and C#.Net**
 
 - 📫 How to reach me **jean.obandocortes@gmail.com**
 
